@@ -1,0 +1,1 @@
+double getArea(double a, double b, double c, int d);
